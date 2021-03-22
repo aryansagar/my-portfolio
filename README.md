@@ -3,9 +3,9 @@
 
 ### <a href="https://code-with-aryan.netlify.app/">LIVE DEMO</a>
 
-## Resume Starter Pack Description
 
-This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses. If you need to use this portfolio for your own personal website then follow the steps below:
+
+This portfolio is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses. If you need to use this portfolio for your own personal website then follow the steps below:
 
 ## 1. Initial Setup Procedures
 
@@ -37,13 +37,7 @@ Run the command `npm run init` to set up a new or existing npm package. Then run
 ## 8. Host Resume Online
 
 1) Upload all the Resume related files to your Github Profile
-2) Go to <a href="https://www.heroku.com">Heroku</a> and set up your profile
+2) Go to <a href="https://www.netlify.com">Heroku</a> and set up your profile
 3) Create a New App
 4) Choose Github as a Deployment Method
 5) Select the correct resume repository that you uploaded in Step 1
-
-## Credits
-
-##### Original Idea
-
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
