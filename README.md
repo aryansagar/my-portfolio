@@ -1,4 +1,4 @@
-# my protfolio
+# Protfolio
 
 
 ### <a href="https://code-with-aryan.netlify.app/">LIVE DEMO</a>
